@@ -21,7 +21,7 @@ Reporting Analyst</p>
 <li>Data Management</li>
 <li>Invoicing</li>
 </ul>
-</p>
+<br>
 
 <p><strong>Alsvit a Hipoges Company - Real Estate Services (2021-23)</strong><br>
 Operational Analyst</p>
@@ -31,7 +31,7 @@ Operational Analyst</p>
 <li>Invoicing, Expenses & Cost Estimations</li>
 <li>Continuous Communication with Partners for Updates</li>
 </ul>
-</p>
+<br>
 
 <p><strong>ETEAEP – Pension Fund (2019-20)</strong><br>
 Financial Clerk</p>
@@ -41,7 +41,7 @@ Financial Clerk</p>
 <li>Estimating Benefit Funds</li>
 <li>Data Collection, Cleanse & Digitization</li>
 </ul>
-</p>
+<br>
 
 <p><strong>Region of Western Greece – Public District (2017-18)</strong><br>
 Administrative Assistant</p>
@@ -50,7 +50,7 @@ Administrative Assistant</p>
 <li>Accountant assistant</li>
 <li>Assistant of Suppliers Department</li>
 </ul>
-</p>
+<br>
 
 ## Languages
 <p>ECPE - Proficiency in English (2019)</p>
