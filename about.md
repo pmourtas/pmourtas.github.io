@@ -15,12 +15,13 @@ T.E.I. of Western Greece</p>
 
 ## Work Experience
 <p><strong>N. Andrikopoulos Law Firm - Real Estate Services (2023-24)</strong><br>
-<ul>Reporting Analyst</p>
+Reporting Analyst</p>
+<ul>
 <li>Reports, KPIs, Visualizations & Analyses</li>
 <li>Data Management</li>
 <li>Invoicing</li>
 </ul>
-
+</p>
 
 <p><strong>Alsvit a Hipoges Company - Real Estate Services (2021-23)</strong><br>
 Operational Analyst</p>
@@ -30,7 +31,7 @@ Operational Analyst</p>
 <li>Invoicing, Expenses & Cost Estimations</li>
 <li>Continuous Communication with Partners for Updates</li>
 </ul>
-
+</p>
 
 <p><strong>ETEAEP – Pension Fund (2019-20)</strong><br>
 Financial Clerk</p>
@@ -40,7 +41,7 @@ Financial Clerk</p>
 <li>Estimating Benefit Funds</li>
 <li>Data Collection, Cleanse & Digitization</li>
 </ul>
-
+</p>
 
 <p><strong>Region of Western Greece – Public District (2017-18)</strong><br>
 Administrative Assistant</p>
@@ -49,6 +50,7 @@ Administrative Assistant</p>
 <li>Accountant assistant</li>
 <li>Assistant of Suppliers Department</li>
 </ul>
+</p>
 
 ## Languages
 <p>ECPE - Proficiency in English (2019)</p>
