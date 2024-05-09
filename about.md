@@ -20,17 +20,14 @@ T.E.I. of Western Greece</p>
 <p><strong>Marketing - Mix & Brand</strong><br>
 <p><strong>Html 5 & JavaScript</strong><br>
 E-learnings, National & Kapodistrian University of Athens (2019)
-</p>
 
 
 ## Skills
-<p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA
-</p>
+<p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA</p>
 
 
 ## Languages
-<p>ECPE - Proficiency in English (2019)
-</p>
+<p>ECPE - Proficiency in English (2019)</p>
 
 
 ## Work Experience
