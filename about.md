@@ -37,7 +37,7 @@ ECPE - Proficiency in English (2019)
 ## Work Experience
 
 #### N. Andrikopoulos Law Firm - Real Estate Services (2023-24)
-Reporting Analyst
+<u>Reporting Analyst</u>
 Reports, KPIs, Visualizations & Analyses
 Data Management
 Invoicing
