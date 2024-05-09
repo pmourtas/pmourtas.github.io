@@ -8,20 +8,20 @@ title: About
 <p><strong>Master Degree in “Data Science” (2023-25)</strong><br>
 University of Essex</p>
 
-###### Master Degree in “Applied Accounting & Auditing” (2019-21)
-National & Kapodistrian University of Athens
+<p><strong>Master Degree in “Applied Accounting & Auditing” (2019-21)</strong><br>
+National & Kapodistrian University of Athens</p>
 
-###### Bachelor Degree in “Business Planning & Information Systems” (2010–18)
-T.E.I. of Western Greece
+<p><strong>Bachelor Degree in “Business Planning & Information Systems” (2010–18)</strong><br>
+T.E.I. of Western Greece</p>
 
 
 ## Qualifications
 
-###### IFRS – International Finance Reporting Standards
-###### Business Management: Business Finance
-###### Marketing - Mix & Brand
-###### Html 5 & JavaScript
-E-learnings, National & Kapodistrian University of Athens (2019)
+<p><strong>IFRS – International Finance Reporting Standards</strong><br>
+<p><strong>Business Management: Business Finance</strong><br>
+<p><strong>Marketing - Mix & Brand</strong><br>
+<p><strong>Html 5 & JavaScript</strong><br>
+E-learnings, National & Kapodistrian University of Athens (2019)</p>
 
 
 ## Skills
@@ -36,16 +36,16 @@ ECPE - Proficiency in English (2019)
 
 ## Work Experience
 
-###### N. Andrikopoulos Law Firm - Real Estate Services (2023-24)
-Reporting Analyst
+<p><strong>N. Andrikopoulos Law Firm - Real Estate Services (2023-24)</strong><br>
+Reporting Analyst</p>
 <ul>
 <li>Reports, KPIs, Visualizations & Analyses</li>
 <li>Data Management</li>
 <li>Invoicing</li>
 </ul>
 
-###### Alsvit a Hipoges Company - Real Estate Services (2021-23)
-Operational Analyst
+<p><strong>Alsvit a Hipoges Company - Real Estate Services (2021-23)</strong><br>
+Operational Analyst</p>
 <ul>
 <li>Data Management</li>
 <li>Reports, KPIs, Visualizations & Analyses</li>
@@ -53,8 +53,8 @@ Operational Analyst
 <li>Continuous Communication with Partners for Updates</li>
 </ul>
 
-###### ETEAEP – Pension Fund (2019-20)
-Financial Clerk
+<p><strong>ETEAEP – Pension Fund (2019-20)</strong><br>
+Financial Clerk</p>
 <ul>
 <li>Checking Requirements</li>
 <li>Inform & Support</li>
@@ -62,8 +62,8 @@ Financial Clerk
 <li>Data Collection, Cleanse & Digitization</li>
 </ul>
 
-###### Region of Western Greece – Public District (2017-18)
-Administrative Assistant
+<p><strong>Region of Western Greece – Public District (2017-18)</strong><br>
+Administrative Assistant</p>
 <ul>
 <li>Administrative & Secretarial Support</li>
 <li>Accountant assistant</li>
