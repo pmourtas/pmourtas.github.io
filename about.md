@@ -38,26 +38,26 @@ ECPE - Proficiency in English (2019)
 
 #### N. Andrikopoulos Law Firm - Real Estate Services (2023-24)
 Reporting Analyst
-• Reports, KPIs, Visualizations & Analyses
-• Data Management
-• Invoicing
+Reports, KPIs, Visualizations & Analyses
+Data Management
+Invoicing
 
 #### Alsvit a Hipoges Company - Real Estate Services (2021-23)
 Operational Analyst
-• Data Management
-• Reports, KPIs, Visualizations & Analyses
-• Invoicing, Expenses & Cost Estimations
-• Continuous Communication with Partners for Updates
+Data Management
+Reports, KPIs, Visualizations & Analyses
+Invoicing, Expenses & Cost Estimations
+Continuous Communication with Partners for Updates
 
 #### ETEAEP – Pension Fund (2019-20)
 Financial Clerk
-• Checking Requirements
-• Inform & Support
-• Estimating Benefit Funds
-• Data Collection, Cleanse & Digitization
+Checking Requirements
+Inform & Support
+Estimating Benefit Funds
+Data Collection, Cleanse & Digitization
 
 #### Region of Western Greece – Public District (2017-18)
 Administrative Assistant
-• Administrative & Secretarial Support
-• Accountant assistant
-• Assistant of Suppliers Department
+Administrative & Secretarial Support
+Accountant assistant
+Assistant of Suppliers Department
