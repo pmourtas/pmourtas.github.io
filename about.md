@@ -50,7 +50,6 @@ Administrative Assistant</p>
 <li>Accountant assistant</li>
 <li>Assistant of Suppliers Department</li>
 </ul>
-<br>
 
 ## Languages
 <p>ECPE - Proficiency in English (2019)</p>
