@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-<h2>Education</h2>
+## Education
 <p><strong>Master Degree in “Data Science” (2023-25)</strong><br>
 University of Essex</p>
 
@@ -20,13 +20,13 @@ T.E.I. of Western Greece</p>
 <p><strong>Html 5 & JavaScript</strong><br>
 E-learnings, National & Kapodistrian University of Athens (2019)</p>
 
+## Languages
+<p>ECPE - Proficiency in English (2019)</p>
+
 ## Skills
 <p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA</p>
 
-<h2>Languages</h2>
-<p>ECPE - Proficiency in English (2019)</p>
-
-<h2>Work Experience</h2>
+## Work Experience
 <p><strong>N. Andrikopoulos Law Firm - Real Estate Services (2023-24)</strong><br>
 Reporting Analyst</p>
 <ul>
