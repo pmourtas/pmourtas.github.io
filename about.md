@@ -23,11 +23,11 @@ E-learnings, National & Kapodistrian University of Athens (2019)</p>
 
 
 ## Skills
-<p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA</p>
+<p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA<br></p>
 
 
 ## Languages
-<p>ECPE - Proficiency in English (2019)</p>
+<p>ECPE - Proficiency in English (2019)<br></p>
 
 
 ## Work Experience
