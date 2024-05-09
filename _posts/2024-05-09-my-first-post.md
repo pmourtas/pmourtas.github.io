@@ -6,6 +6,8 @@ categories: E-Portofolio
 ---
 
 ## Unit 1: Introduction to Big Data Technologies and Data Management
-1.
+
+
+## Unit 2:
 
 
