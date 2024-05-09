@@ -12,7 +12,7 @@ University of Essex</p>
 National & Kapodistrian University of Athens</p>
 
 <p><strong>Bachelor Degree in “Business Planning & Information Systems” (2010–18)</strong><br>
-T.E.I. of Western Greece</p>
+T.E.I. of Western Greece
 
 
 ## Qualifications
