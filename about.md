@@ -15,8 +15,7 @@ T.E.I. of Western Greece</p>
 
 ## Work Experience
 <p><strong>N. Andrikopoulos Law Firm - Real Estate Services (2023-24)</strong><br>
-Reporting Analyst</p>
-<ul>
+<ul>Reporting Analyst</p>
 <li>Reports, KPIs, Visualizations & Analyses</li>
 <li>Data Management</li>
 <li>Invoicing</li>
