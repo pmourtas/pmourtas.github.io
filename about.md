@@ -13,19 +13,6 @@ National & Kapodistrian University of Athens</p>
 <p><strong>Bachelor Degree in “Business Planning & Information Systems” (2010–18)</strong><br>
 T.E.I. of Western Greece</p>
 
-## Qualifications
-<p><strong>IFRS – International Finance Reporting Standards</strong><br>
-<p><strong>Business Management: Business Finance</strong><br>
-<p><strong>Marketing - Mix & Brand</strong><br>
-<p><strong>Html 5 & JavaScript</strong><br>
-E-learnings, National & Kapodistrian University of Athens (2019)</p>
-
-## Languages
-<p>ECPE - Proficiency in English (2019)</p>
-
-## Skills
-<p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA</p>
-
 ## Work Experience
 <p><strong>N. Andrikopoulos Law Firm - Real Estate Services (2023-24)</strong><br>
 Reporting Analyst</p>
@@ -60,3 +47,17 @@ Administrative Assistant</p>
 <li>Accountant assistant</li>
 <li>Assistant of Suppliers Department</li>
 </ul>
+
+## Qualifications
+<p><strong>IFRS – International Finance Reporting Standards</strong><br>
+<p><strong>Business Management: Business Finance</strong><br>
+<p><strong>Marketing - Mix & Brand</strong><br>
+<p><strong>Html 5 & JavaScript</strong><br>
+E-learnings, National & Kapodistrian University of Athens (2019)</p>
+
+## Languages
+<p>ECPE - Proficiency in English (2019)</p>
+
+## Skills
+<p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA</p>
+
