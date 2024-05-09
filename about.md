@@ -48,6 +48,12 @@ Administrative Assistant</p>
 <li>Assistant of Suppliers Department</li>
 </ul>
 
+## Languages
+<p>ECPE - Proficiency in English (2019)</p>
+
+## Skills
+<p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA</p>
+
 ## Qualifications
 <p><strong>IFRS – International Finance Reporting Standards</strong><br>
 <p><strong>Business Management: Business Finance</strong><br>
@@ -55,9 +61,4 @@ Administrative Assistant</p>
 <p><strong>Html 5 & JavaScript</strong><br>
 E-learnings, National & Kapodistrian University of Athens (2019)</p>
 
-## Languages
-<p>ECPE - Proficiency in English (2019)</p>
-
-## Skills
-<p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA</p>
 
