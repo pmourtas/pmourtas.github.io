@@ -4,7 +4,6 @@ title: About
 ---
 
 ## Education
-
 <p><strong>Master Degree in “Data Science” (2023-25)</strong><br>
 University of Essex</p>
 
@@ -15,8 +14,7 @@ National & Kapodistrian University of Athens</p>
 T.E.I. of Western Greece</p>
 
 
-<p>## Qualifications</p>
-
+## Qualifications
 <p><strong>IFRS – International Finance Reporting Standards</strong><br>
 <p><strong>Business Management: Business Finance</strong><br>
 <p><strong>Marketing - Mix & Brand</strong><br>
@@ -25,17 +23,14 @@ E-learnings, National & Kapodistrian University of Athens (2019)</p>
 
 
 ## Skills
-
 <p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA</p>
 
 
 ## Languages
-
 <p>ECPE - Proficiency in English (2019)</p>
 
 
 ## Work Experience
-
 <p><strong>N. Andrikopoulos Law Firm - Real Estate Services (2023-24)</strong><br>
 Reporting Analyst</p>
 <ul>
