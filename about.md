@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-## Education
+<h2>Education<h2>
 <p><strong>Master Degree in “Data Science” (2023-25)</strong><br>
 University of Essex</p>
 
