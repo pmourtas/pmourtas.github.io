@@ -22,7 +22,7 @@ T.E.I. of Western Greece</p>
 E-learnings, National & Kapodistrian University of Athens (2019)</p>
 
 
-### Skills
+# Skills
 <p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA</p>
 
 
