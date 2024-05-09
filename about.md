@@ -5,13 +5,13 @@ title: About
 
 ## Education
 
-#### Master Degree in “Data Science” (2023-25)
+##### Master Degree in “Data Science” (2023-25)
 University of Essex
 
-#### Master Degree in “Applied Accounting & Auditing” (2019-21)
+##### Master Degree in “Applied Accounting & Auditing” (2019-21)
 National & Kapodistrian University of Athens
 
-#### Bachelor Degree in “Business Planning & Information Systems” (2010–18)
+##### Bachelor Degree in “Business Planning & Information Systems” (2010–18)
 T.E.I. of Western Greece
 
 
