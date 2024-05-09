@@ -22,18 +22,15 @@ T.E.I. of Western Greece</p>
 E-learnings, National & Kapodistrian University of Athens (2019)</p>
 
 
-
-## Skills
+### Skills
 <p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA</p>
 
 
-
-## Languages
+### Languages
 <p>ECPE - Proficiency in English (2019)</p>
 
 
-
-## Work Experience
+### Work Experience
 <p><strong>N. Andrikopoulos Law Firm - Real Estate Services (2023-24)</strong><br>
 Reporting Analyst</p>
 <ul>
