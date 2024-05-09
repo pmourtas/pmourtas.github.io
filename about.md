@@ -17,10 +17,10 @@ T.E.I. of Western Greece
 
 ## Qualifications
 
-#### “IFRS – International Finance Reporting Standards”
-#### “Business Management: Business Finance”
-#### “Marketing - Mix & Brand”
-#### “Html 5 & JavaScript”
+IFRS – International Finance Reporting Standards
+Business Management: Business Finance
+Marketing - Mix & Brand
+Html 5 & JavaScript
 E-learnings, National & Kapodistrian University of Athens (2019)
 
 
