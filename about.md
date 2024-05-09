@@ -19,7 +19,7 @@ T.E.I. of Western Greece</p>
 <p><strong>Business Management: Business Finance</strong><br>
 <p><strong>Marketing - Mix & Brand</strong><br>
 <p><strong>Html 5 & JavaScript</strong><br>
-<p>E-learnings, National & Kapodistrian University of Athens (2019)<br></p>
+E-learnings, National & Kapodistrian University of Athens (2019)</br></p>
 
 
 ## Skills
