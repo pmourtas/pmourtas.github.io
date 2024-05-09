@@ -5,8 +5,8 @@ title: About
 
 ## Education
 
-###### Master Degree in “Data Science” (2023-25)
-University of Essex
+<p><strong>Master Degree in “Data Science” (2023-25)</strong><br>
+University of Essex</p>
 
 ###### Master Degree in “Applied Accounting & Auditing” (2019-21)
 National & Kapodistrian University of Athens
