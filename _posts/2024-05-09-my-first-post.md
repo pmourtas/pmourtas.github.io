@@ -60,8 +60,8 @@ categories: E-Portofolio
 <li>   </li>
 </ul>
 
-## Unit 8: Compliance and Regulatory Framework for Managing Data
-<p><strong>   </strong><br></p>
+## Unit 8
+<p><strong> Compliance and Regulatory Framework for Managing Data </strong><br></p>
 <ul> 
 <li>   </li>
 <li>   </li>
