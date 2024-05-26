@@ -8,16 +8,15 @@ categories: E-Portofolio
 ## Unit 1
 <p><strong> Introduction to Big Data Technologies and Data Management </strong><br></p>
 <ul> 
-<li> Features and characteristics of big data </li>
+<li> The features and characteristics of big data </li>
 <li> The exponentially growth of data, boundlessness and high complexity of data </li> 
 <li> The 4Vs of big data </li> 
-<li> Methodologies, tools, techniques and strategies </li> 
 <li> The issues and challenges associated with managing tools and strategies </li> 
 <li> Data security requirements </li> 
 <li> Skill requirements for developing a data management system </li> 
 <li> Different data formats, types and representations in a variety of different scenarios </li> 
 <li> Challenges, security issues and risks, limitations, and opportunities in data wrangling </li> 
-<li> Data wrangling problems and appropriate methodologies, tools, and techniques to solve them </li> 
+<li> Data wrangling problems and appropriate methodologies, tools, techniques and strategies to solve them </li> 
 </ul>
 
 ## Unit 2
