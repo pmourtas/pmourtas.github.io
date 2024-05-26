@@ -5,9 +5,13 @@ subtitle: What have I learned so far
 categories: E-Portofolio
 ---
 
-## Unit 1: Introduction to Big Data Technologies and Data Management
-
-## Unit 2: Unit 2: Introduction to Data Types and Formats
+## Unit 1
+<p><strong> Introduction to Big Data Technologies and Data Management </strong><br></p>
+<ul> 
+<li> The future of big data analytics </li>
+<li> Machine learning and applications </li> 
+</ul>
+## Unit 2: Introduction to Data Types and Formats
 
 ## Unit 3: Data Collection and Storage
 
