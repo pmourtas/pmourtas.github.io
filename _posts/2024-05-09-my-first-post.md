@@ -23,11 +23,16 @@ References:
 
 ## Unit 2
 <p><strong> Introduction to Data Types and Formats </strong><br></p>
-<ul> 
-<li>   </li>
-<li>   </li>
-<li>   </li>
-</ul>
+
+In this unit, we had only to continue our required reading concerning data wrangling with Python among two books (1, 2). We learn about data structures and how to handle the filling. We examine different user-defined methods, iterators, queues, stacks, and other usable methods in Python. Other than that, we familiarize ourselves with some library packages, such as the lambda expression and file-handling operations such as opening and closing files, as well as reading and writing to them. Other than that, we proceed further with the libraries of NumPy, Pandas, and Matplotlib, as well as their significant features, facilitating different methods.
+
+As it concerns our new material, the second book, we learn about importing data tricks and techniques from specific format files like CSV, JSON, XML, and Excel, as well as some machine command lines, in order to navigate through our folders and files on our computers. That book helped us to comprehend the idea of parsing the data and how we wanted the data to be shown on our screen. It also helped us to find what we were looking for and what else we could actually do to get closer to a suitable solution, examining the numerous ways that Python and its libraries provided.
+
+References: 
+<ol>
+<li>Sarkar, T. & Roychowdhury, S. (2019) Data Wrangling with Python. 1st ed. Packt.</li>
+<li>Kazil, J & Jarmul, K. (2016) Data Wrangling with Python. O'Reilly. Media Inc.</li>
+</ol>ol>
 
 ## Unit 3
 <p><strong> Data Collection and Storage </strong><br></p>
