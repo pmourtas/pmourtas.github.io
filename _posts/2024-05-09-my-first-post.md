@@ -15,10 +15,11 @@ In this unit, we were required to start reading a great book about data wranglin
 Other than that, in this unit we had to start a discussion topic about the internet of things (IoT) (3). In that discussion, we had to highlight the opportunities, limitations, risks, and challenges in relation to data collection and determine appropriate measures in order to solve them appropriately, using academic literature. The discussion is held between the peers, and in the end, our tutor gives us his feedback in order to criticize our work and to help us develop our research skills even more.
 
 References:
-1) Open Sistemas (2021) MSc Data Science [Lecturecast]. Deciphering Big Data April 2024. University of Essex Online.
-2) Sarkar, T. & Roychowdhury, S. (2019) Data Wrangling with Python. 1st ed. Packt.
-3) Huxley et al. (2020) Data Cleaning. Sage Foundation.
-
+<ol>
+<li>Open Sistemas (2021) MSc Data Science [Lecturecast]. Deciphering Big Data April 2024. University of Essex Online.</li>
+<li>Sarkar, T. & Roychowdhury, S. (2019) Data Wrangling with Python. 1st ed. Packt.</li>
+<li>Huxley et al. (2020) Data Cleaning. Sage Foundation.</li>
+</ol>
 
 ## Unit 2
 <p><strong> Introduction to Data Types and Formats </strong><br></p>
