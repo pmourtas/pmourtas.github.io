@@ -12,5 +12,5 @@ categories: E-Portofolio
 <li>  a </li>
 <li>  b </li>
 <li>  c </li>
- </ol>ol>
+ </ol>
 
