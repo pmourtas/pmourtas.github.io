@@ -32,7 +32,7 @@ References:
 <ol>
 <li>Sarkar, T. & Roychowdhury, S. (2019) Data Wrangling with Python. 1st ed. Packt.</li>
 <li>Kazil, J & Jarmul, K. (2016) Data Wrangling with Python. O'Reilly. Media Inc.</li>
-</ol>ol>
+</ol>
 
 ## Unit 3
 <p><strong> Data Collection and Storage </strong><br></p>
