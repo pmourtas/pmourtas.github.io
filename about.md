@@ -17,8 +17,8 @@ T.E.I. of Western Greece</p>
 <p><strong>N. Andrikopoulos Law Firm - Real Estate Services (2023-24)</strong><br>
 Reporting Analyst</p>
 <ul>
-<li>Reports, KPIs, Visualizations & Analyses</li>
 <li>Data Management</li>
+<li>Reports, KPIs, Visualizations & Analyses</li>
 <li>Invoicing</li>
 </ul>
 <br>
@@ -29,7 +29,8 @@ Operational Analyst</p>
 <li>Data Management</li>
 <li>Reports, KPIs, Visualizations & Analyses</li>
 <li>Invoicing, Expenses & Cost Estimations</li>
-<li>Continuous Communication with Partners for Updates</li>
+<li>Project Management</li> 
+<li>Continuous Communication with Partners</li>
 </ul>
 <br>
 
@@ -48,14 +49,14 @@ Administrative Assistant</p>
 <ul>
 <li>Administrative & Secretarial Support</li>
 <li>Accountant assistant</li>
-<li>Assistant of Suppliers Department</li>
+<li>Procurement Department Assistant</li>
 </ul>
 
 ## Languages
 <p>ECPE - Proficiency in English (2019)</p>
 
 ## Skills
-<p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA</p>
+<p>Excel, Python, R, Power BI, Tableau, SQL, CLI, HTML, CSS, UML, ERP, SAP, SPSS, IDEA, Jira</p>
 
 ## Qualifications
 <p><strong>IFRS – International Finance Reporting Standards</strong><br>
