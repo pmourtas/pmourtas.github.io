@@ -8,9 +8,8 @@ categories: E-Portofolio
 ## Reflection
 
 <p><strong> Content </strong><br></p>
-<ul>
-<li>
-In units 1 and 2, we had an introduction to big data technologies and data management, as well as several existing data types and formats. We evaluate the volume, variety, velocity, and veracity of data and how they have grown and developed in the last few years. We examine technologies like data mining, exploration, analysis, and presentation. Moreover, we review methodologies, tools, and techniques like cleansing, standardization, and normalization, along with some strategies and services that can make us able to handle the big data easier, extract all the required information available faster, and achieve greater accuracy (Open Sistemas, 2021).</li>
+
+<p>In units 1 and 2, we had an introduction to big data technologies and data management, as well as several existing data types and formats. We evaluate the volume, variety, velocity, and veracity of data and how they have grown and developed in the last few years. We examine technologies like data mining, exploration, analysis, and presentation. Moreover, we review methodologies, tools, and techniques like cleansing, standardization, and normalization, along with some strategies and services that can make us able to handle the big data easier, extract all the required information available faster, and achieve greater accuracy (Open Sistemas, 2021).</p>
 
 
 Other than that, we began with our core book about data wrangling with Python (Sarkar, T. & Roychowdhury, S., 2019). From the very beginning, we got an idea about the process of data wrangling. It provided us with a brief overview of Python, showing us about lists, sets, strings, tuples, and dictionaries with a lot of solved examples and mechanisms for how to properly exploit them in different scenarios. Moreover, we explore the nature of data structures and how to handle the data filling. We examine different user-defined methods, iterators, queues, stacks, and other usable tools in Python. In addition, we familiarize ourselves with some library packages, such as the lambda expression and file-handling operations for opening and closing files, as well as reading and writing to them. Lastly, we proceed further with the libraries of NumPy, Pandas, and Matplotlib, as well as their significant features, facilitating different methods each time.
