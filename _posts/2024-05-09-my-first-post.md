@@ -117,20 +117,20 @@ Essex University highlights in every module that it takes academic integrity ver
 <p>Each attribute contains only atomic values and there are no repeating groups or arrays.</p>
 <p></p>
 
-![pic10](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B20.png?raw=true)
+![pic10](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B110.png?raw=true)
 
 <p>Figure 7: The second normal form of the table in figure 5.</p>                                                 
 <p>All attributes are fully dependent on the primary key.</p>
 <p></p>
 
-![pic11](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B21.png?raw=true)
+![pic11](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B111.png?raw=true)
 
 <p>Figure 8: The third normal form of the table in figure 5.</p>                                                   
 <p>Each attribute is dependent on the Primary key.</p>                                                               
 <p>We also have foreign keys that show the relationships between the tables.</p>
 <p></p>
 
-![pic12](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B22.png?raw=true)
+![pic12](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B112.png?raw=true)
 
 <p>Figure 9: The relational database system of the tables in figure 8.</p>
 <p></p>
@@ -139,7 +139,7 @@ Essex University highlights in every module that it takes academic integrity ver
 
 <p>d)</p>
 
-![pic13](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B23.png?raw=true)
+![pic13](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B113.png?raw=true)
 
 <p>Figure 10: API Security Requirements of Unit 10 activity.</p>
 <p></p>
@@ -147,11 +147,11 @@ Essex University highlights in every module that it takes academic integrity ver
 
 <p>e)</p>
 
-![pic14](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B24.png?raw=true)
+![pic14](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B114.png?raw=true)
 
-![pic15](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B25.png?raw=true)
+![pic15](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B115.png?raw=true)
 
-![pic16](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B26.png?raw=true)
+![pic16](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B116.png?raw=true)
 
 <p>Figures 11: Collaborative Discussion of Unit 8.</p>
 <p></p>
