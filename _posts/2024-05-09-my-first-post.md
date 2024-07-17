@@ -71,8 +71,8 @@ Last but not least, I noticed that in the collaborative discussions, which are o
 <p>Figure 1: Exercise 94, Unit 7. (Sarkar, T. & Roychowdhury, S., 2019)</p>
 <p></p>
 
- 
-Figure 2: AI detector for the exercise 94. (Quill Bot, 2024)
+![pic2](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B12.png?raw=true)
+<p>Figure 2: AI detector for the exercise 94. (Quill Bot, 2024)</p>
 <p></p>
 
 
