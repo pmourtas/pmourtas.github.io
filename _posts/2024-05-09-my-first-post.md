@@ -83,6 +83,7 @@ Essex University highlights in every module that it takes academic integrity ver
 <p><strong> Appendix </strong><br></p>
 
 <p>a)</p>
+
 ![pic3](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B13.png?raw=true)
 
 ![pic4](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B14.png?raw=true)
@@ -137,6 +138,7 @@ Essex University highlights in every module that it takes academic integrity ver
 
 
 <p>d)</p>
+
 ![pic13](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B23.png?raw=true)
 
 <p>Figure 10: API Security Requirements of Unit 10 activity.</p>
@@ -144,6 +146,7 @@ Essex University highlights in every module that it takes academic integrity ver
 
 
 <p>e)</p>
+
 ![pic14](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B24.png?raw=true)
 
 ![pic15](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B25.png?raw=true)
