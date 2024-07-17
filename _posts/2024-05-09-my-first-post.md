@@ -66,7 +66,8 @@ In my opinion, a reflection exercise like that is not so efficient and is not he
 
 Last but not least, I noticed that in the collaborative discussions, which are open to all, some students use Artificial Intelligence like ChatGPT in order to post their opinions (Habib, S., 2024). It is not bad to take advantage of it because it provides you with knowledge, but it is bad when you copy-paste its answer. In that way, students do not learn. Of course, the same applies to our program notes. I am talking about our core book, which has a lot of exercises whose solutions are given by AI tools. As an example:
 <p></p>
-<p>![pic1](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B11.png?raw=true)</p>
+
+![pic1](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B11.png?raw=true)
 <p>Figure 1: Exercise 94, Unit 7. (Sarkar, T. & Roychowdhury, S., 2019)</p>
 <p></p>
 
