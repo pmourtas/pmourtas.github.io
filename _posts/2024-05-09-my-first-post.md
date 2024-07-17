@@ -83,60 +83,59 @@ Essex University highlights in every module that it takes academic integrity ver
 <p><strong> Appendix </strong><br></p>
 
 a)
-<p></p>
- 
- 
-Figures 3: Collaborative discussion of Unit 1.
+![pic3](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B13.png?raw=true)
+![pic4](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B14.png?raw=true)
+![pic5](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B15.png?raw=true)
+![pic6](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B16.png?raw=true)
+<p>Figures 3: Collaborative discussion of Unit 1.</p>
 <p></p>
 
 
 b)
-<p></p>
-
- 
-Figure 4: Web scraping code for activity in Unit 3.
-<p></p>
-
-
-c) 
-<p></p>
-
-Figure 5: The table with data in unnormalized form.
-<p></p>
- 
-Figure 6: The first normal form of the table in figure 5.                                                     
-Each attribute contains only atomic values and there are no repeating groups or arrays
-<p></p>
-
- 
-Figure 7: The second normal form of the table in figure 5.                                                    
-All attributes are fully dependent on the primary key
-<p></p>
-
- 
-Figure 8: The third normal form of the table in figure 5.                                                     
-Each attribute is dependent on the Primary key.                                                               
-We also have foreign keys that show the relationships between the tables
-<p></p>
- 
-Figure 9: The relational database system of the tables in figure 8.
+![pic7](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B17.png?raw=true)
+<p>Figure 4: Web scraping code for activity in Unit 3.</p>
 <p></p>
 
 
-
-d) 
+c)
+![pic8](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B18.png?raw=true)
+<p>Figure 5: The table with data in unnormalized form.</p>
 <p></p>
- 
-Figure 10: API Security Requirements of Unit 10 activity.
+
+![pic9](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B19.png?raw=true)
+<p>Figure 6: The first normal form of the table in figure 5.</p>                                                  
+<p>Each attribute contains only atomic values and there are no repeating groups or arrays.</p>
+<p></p>
+
+![pic10](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B20.png?raw=true) 
+<p>Figure 7: The second normal form of the table in figure 5.</p>                                                 
+<p>All attributes are fully dependent on the primary key.</p>
+<p></p>
+
+![pic11](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B21.png?raw=true) 
+<p>Figure 8: The third normal form of the table in figure 5.</p>                                                   
+<p>Each attribute is dependent on the Primary key.</p>                                                               
+<p>We also have foreign keys that show the relationships between the tables.</p>
+<p></p>
+
+![pic12](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B22.png?raw=true) 
+<p>Figure 9: The relational database system of the tables in figure 8.</p>
+<p></p>
+
+
+
+d)
+![pic13](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B23.png?raw=true) 
+<p>Figure 10: API Security Requirements of Unit 10 activity.</p>
 <p></p>
 
 
 e)
+![pic14](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B24.png?raw=true) 
+![pic15](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B25.png?raw=true) 
+![pic16](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B26.png?raw=true) 
+<p>Figures 11: Collaborative Discussion of Unit 8.</p>
 <p></p>
- 
-Figures 11: Collaborative Discussion of Unit 8
-<p></p>
-
 <p></p>
 <p></p>
 
