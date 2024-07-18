@@ -71,7 +71,7 @@ Last but not least, I noticed that in the collaborative discussions, which are o
 <p>Figure 1: Exercise 94, Unit 7. (Sarkar, T. & Roychowdhury, S., 2019)</p>
 <p></p>
 
-![pic2](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B12.png?raw=true)
+![pic2](https://github.com/pmourtas/p-mourtas.github.io/blob/main/assets/images/banners/2.png)
 <p>Figure 2: AI detector for the exercise 94. (Quill Bot, 2024)</p>
 <p></p>
 
@@ -84,13 +84,9 @@ Essex University highlights in every module that it takes academic integrity ver
 
 <p>a)</p>
 
-![pic3](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B13.png?raw=true)
+![pic3](https://github.com/pmourtas/p-mourtas.github.io/blob/main/assets/images/banners/3.png)
 
-![pic4](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B14.png?raw=true)
-
-![pic5](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B15.png?raw=true)
-
-![pic6](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B16.png?raw=true)
+![pic4](https://github.com/pmourtas/p-mourtas.github.io/blob/main/assets/images/banners/4.png)
 
 <p>Figures 3: Collaborative discussion of Unit 1.</p>
 <p></p>
@@ -98,7 +94,7 @@ Essex University highlights in every module that it takes academic integrity ver
 
 <p>b)</p>
 
-![pic7](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B17.png?raw=true)
+![pic5](https://github.com/pmourtas/p-mourtas.github.io/blob/main/assets/images/banners/5.png)
 
 <p>Figure 4: Web scraping code for activity in Unit 3.</p>
 <p></p>
@@ -106,31 +102,31 @@ Essex University highlights in every module that it takes academic integrity ver
 
 <p>c)</p>
 
-![pic8](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B18.png?raw=true)
+![pic6](https://github.com/pmourtas/p-mourtas.github.io/blob/main/assets/images/banners/6.png)
 
 <p>Figure 5: The table with data in unnormalized form.</p>
 <p></p>
 
-![pic9](https://github.com/pmourtas/p-mour.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B19.png?raw=true)
+![pic7](https://github.com/pmourtas/p-mourtas.github.io/blob/main/assets/images/banners/7.png)
 
 <p>Figure 6: The first normal form of the table in figure 5.</p>                                                  
 <p>Each attribute contains only atomic values and there are no repeating groups or arrays.</p>
 <p></p>
 
-![pic10](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B110.png?raw=true)
+![pic8](https://github.com/pmourtas/p-mourtas.github.io/blob/main/assets/images/banners/8.png)
 
 <p>Figure 7: The second normal form of the table in figure 5.</p>                                                 
 <p>All attributes are fully dependent on the primary key.</p>
 <p></p>
 
-![pic11](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B111.png?raw=true)
+![pic9](https://github.com/pmourtas/p-mourtas.github.io/blob/main/assets/images/banners/9.png)
 
 <p>Figure 8: The third normal form of the table in figure 5.</p>                                                   
 <p>Each attribute is dependent on the Primary key.</p>                                                               
 <p>We also have foreign keys that show the relationships between the tables.</p>
 <p></p>
 
-![pic12](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B112.png?raw=true)
+![pic10](https://github.com/pmourtas/p-mourtas.github.io/blob/main/assets/images/banners/10.png)
 
 <p>Figure 9: The relational database system of the tables in figure 8.</p>
 <p></p>
@@ -139,7 +135,7 @@ Essex University highlights in every module that it takes academic integrity ver
 
 <p>d)</p>
 
-![pic13](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B113.png?raw=true)
+![pic11](https://github.com/pmourtas/p-mourtas.github.io/blob/main/assets/images/banners/11.png)
 
 <p>Figure 10: API Security Requirements of Unit 10 activity.</p>
 <p></p>
@@ -147,11 +143,9 @@ Essex University highlights in every module that it takes academic integrity ver
 
 <p>e)</p>
 
-![pic14](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B114.png?raw=true)
+![pic12](https://github.com/pmourtas/p-mourtas.github.io/blob/main/assets/images/banners/12.png)
 
-![pic15](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B115.png?raw=true)
-
-![pic16](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B116.png?raw=true)
+![pic13](https://github.com/pmourtas/p-mourtas.github.io/blob/main/assets/images/banners/13.png)
 
 <p>Figures 11: Collaborative Discussion of Unit 8.</p>
 <p></p>
