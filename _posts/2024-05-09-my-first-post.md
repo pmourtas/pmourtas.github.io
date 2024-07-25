@@ -68,7 +68,7 @@ Last but not least, I noticed that in the collaborative discussions, which are o
 <p></p>
 
 ![pic1](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/1.png?raw=true)
-<p>Figure 1: Exercise 94, Unit 7. (Sarkar, T. & Roychowdhury, S., 2019)</p>
+<div align="center"><p>Figure 1: Exercise 94, Unit 7. (Sarkar, T. & Roychowdhury, S., 2019)</p></div>
 <p></p>
 
 ![pic2](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/2.png?raw=true)
