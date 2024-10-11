@@ -96,9 +96,9 @@ Hashemi-Pour, C. et al. (2024) What is data visualization and why is it importan
 
 Bostock, M. (2013) Across U.S. Companies, Tax Rates Vary Greatly. Available at: https://archive.nytimes.com/www.nytimes.com/interactive/2013/05/25/sunday-review/corporate-taxes.html [Accessed 9 October 2024]
 
-Easy Jet (2020) Route Map | Flights To European Destinations And Beyond. Available at: https://www.easyjet.com/en/routemap [Accessed 9 October 2024]
+Easy Jet (2020) Route Map - Flights To European Destinations And Beyond. Available at: https://www.easyjet.com/en/routemap [Accessed 9 October 2024]
 
-Ryanair (2020) Ryanair Route Map | Our European Destinations. Available at: https://www.ryanair.com/gb/en/cheap-flight-destinations [Accessed 9 October 2024]
+Ryanair (2020) Ryanair Route Map - Our European Destinations. Available at: https://www.ryanair.com/gb/en/cheap-flight-destinations [Accessed 9 October 2024]
 
 Columbia CTL (2024) Feedback for Learning. Available at: https://ctl.columbia.edu/resources-and-technology/resources/feedback-for-learning/  [Accessed 9 October 2024]
 
