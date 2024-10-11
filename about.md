@@ -34,7 +34,7 @@ Operation Analyst</p>
 </ul>
 <br>
 
-<p><strong>ETEAEP – Pension Fund (2019-20)</strong><br>
+<p><strong>ETEAEP – Public Pension Fund (2019-20)</strong><br>
 Financial Clerk</p>
 <ul>
 <li>Checking Requirements</li>
