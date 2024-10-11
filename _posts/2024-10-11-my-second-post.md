@@ -14,12 +14,10 @@ categories: E-Portofolio
 In addition, we had a case study where we explored some financial complex data (Bostock M., 2013) and a collaborative discussion with our peers in which we had to compare two websites in terms of their visuals (Easy Jet, 2020) (Ryanair, 2020). The scope of the latest was for us to use all the appropriate knowledge of our readings so as to make a legit comparison analysis among them describing their pros and cons. In the end, our tutor gave us his feedback regarding our point of view, making us better as researchers (Columbia CTL, 2024).
 
 <p></p>
-![pic1](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/1.png?raw=true)<
-![pic1](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/1.png?raw=true)<
-![pic1](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/1.png?raw=true)<
+![pic1](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/001.png?raw=true)
+![pic2](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/002.png?raw=true)
+![pic3](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/003.png?raw=true)
 <p></p>
-
-
 
 
 The most interesting thing from those two units was the scientifically proven way of how our brain and eyes are engaged to comprehend the visualizations (Essex University, 2024).
@@ -33,8 +31,8 @@ However, there were times that a piece of code had become obsolete, but that is 
 Lastly, on these two units, we had to continue with our collaborative discussion from the previous units. We had to make a contribution to our peers and a summarization post regarding what else we had learned from our peers posts and the new units.
 
 <p></p>
-![pic1](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/1.png?raw=true)<
-![pic1](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/1.png?raw=true)<
+![pic4](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/004.png?raw=true)
+![pic5](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/005.png?raw=true)
 <p></p>
 
 
@@ -54,7 +52,7 @@ Finaly, we got our tutor feedback, who was highlighting our positives and negati
 
 
 <p></p>
-![pic1](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/1.png?raw=true)<
+![pic6](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/006.png?raw=true)
 <p></p>
 
 
@@ -65,7 +63,7 @@ In unit 12, we also had a formative activity and our two final assignments, desi
 
 
 <p></p>
-![pic1](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/1.png?raw=true)<
+![pic7](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/007.png?raw=true)
 <p></p>
 
 
@@ -75,7 +73,7 @@ As it concerns the formative activity, we had to review some articles related to
 
 
 <p></p>
-![pic1](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/1.png?raw=true)<
+![pic8](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/008.png?raw=true)
 <p></p>
 
 
@@ -90,7 +88,7 @@ In conclusion, I would like to express my personal opinion that we should replac
 <p><strong> References: </strong><br></p>
 Gimblett, R. et al. (2001) The simulation and visualization of complex human–environment interactions. Available at: https://www.sciencedirect.com/science/article/abs/pii/S0169204601001268?via%3Dihub [Accessed 9 October 2024]
 
-Hashemi-Pour, C. et al. (2024) What is data visualization and why is it important?. Available at: https://www.techtarget.com/searchbusinessanalytics/definition/data-visualization [Accessed 9 October 2024]
+Hashemi-Pour, C. et al. (2024) What is data visualization and why is it important? Available at: https://www.techtarget.com/searchbusinessanalytics/definition/data-visualization [Accessed 9 October 2024]
 
 Bostock, M. (2013) Across U.S. Companies, Tax Rates Vary Greatly. Available at: https://archive.nytimes.com/www.nytimes.com/interactive/2013/05/25/sunday-review/corporate-taxes.html [Accessed 9 October 2024]
 
