@@ -83,7 +83,7 @@ As it concerns the formative activity, we had to review some articles related to
 
 Our tutor, though his seminar lectures, once again succeeded in informing us appropriately, giving us the necessary guidelines. From the very beginning, he had informed us to begin developing our reflection report step by step along with our current units, writing down what we had learned, so to meet the deadline. In general, he was very informative and helpful, like our whole module, which was very detailed with everything.
 
-In conclusion, I would like to express my personal opinion that we should replace the reflection assignment with a technical exercise with real tasks that arise in large companies as a simulator. This would enable us to enhance our technical knowledge in areas that will be highly valuable in the job market upon completion of our master's degree (Scarlet Ch., 2023).
+In conclusion, I would like to propose that we should replace the reflection assignment with a technical exercise that simulates real tasks commonly faced in large companies. This shift would significantly enhance our technical knowledge and equip us with valuable skills that will be directly applicable in the job market upon completing our master's degree (Scarlet Ch., 2023).
 
 <p></p>
 <p></p>
