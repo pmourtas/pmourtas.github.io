@@ -2,7 +2,7 @@
 layout: post
 title: Deciphering Big Data - Module
 subtitle: My Reflection
-categories: E-Portofolio
+categories: E-Portfolio
 ---
 
 ## Reflection
