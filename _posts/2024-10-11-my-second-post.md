@@ -2,7 +2,7 @@
 layout: post
 title: Visualising Data - Module
 subtitle: My Reflection
-categories: E-Portofolio
+categories: E-Portfolio
 ---
 
 ## Reflection
