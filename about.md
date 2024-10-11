@@ -14,8 +14,8 @@ National & Kapodistrian University of Athens</p>
 T.E.I. of Western Greece</p>
 
 ## Work Experience
-<p><strong>N. Andrikopoulos Law Firm - Real Estate Services (2023-24)</strong><br>
-Reporting Analyst</p>
+<p><strong>N. Andrikopoulos Law Firm - Banking Real Estate Services (2023-24)</strong><br>
+Report Analyst</p>
 <ul>
 <li>Data Management</li>
 <li>Reports, KPIs, Visualizations & Analyses</li>
@@ -23,8 +23,8 @@ Reporting Analyst</p>
 </ul>
 <br>
 
-<p><strong>Alsvit a Hipoges Company - Real Estate Services (2021-23)</strong><br>
-Operational Analyst</p>
+<p><strong>Alsvit a Hipoges Company - Banking Real Estate Services (2021-23)</strong><br>
+Operation Analyst</p>
 <ul>
 <li>Data Management</li>
 <li>Reports, KPIs, Visualizations & Analyses</li>
