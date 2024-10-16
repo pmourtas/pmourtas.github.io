@@ -14,7 +14,10 @@ categories: E-Portfolio
 In addition, we had a case study where we explored some financial complex data (Bostock M., 2013) and a collaborative discussion with our peers in which we had to compare two websites in terms of their visuals (Easy Jet, 2020) (Ryanair, 2020). The scope of the latest was for us to use all the appropriate knowledge of our readings so as to make a legit comparison analysis among them describing their pros and cons. In the end, our tutor gave us his feedback regarding our point of view, making us better as researchers (Columbia CTL, 2024).
 
 <p></p>
+a) Case Study
 ![pic0](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/000.png?raw=true) 
+<p></p>
+b) Collaborative Discussion
 ![pic1](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/001.png?raw=true) 
 ![pic2](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/002.png?raw=true) 
 ![pic3](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/003.png?raw=true) 
