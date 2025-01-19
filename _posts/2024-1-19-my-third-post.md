@@ -20,6 +20,7 @@ Lastly, we had our first seminar with our tutor, which was an introductory sessi
 
 Figure 1: Initial Post in Collaborative Discussion 1.
 
+
 In Units 2,3 and 4, we took a step back to revisit exploratory data analysis (EDA), correlation, and regression (IBM, 2024). This was important for our learning because, for machine learning to work at its best, we must thoroughly explore the data we are providing and clean it appropriately to retain only the information that truly matters. We must not forget that iteration is the mother of learning. By applying EDA to our data, we can validate it and check for errors using various tools, such as visualizations, to gain insights as well. On the other hand, the statistical techniques of correlation and regression help us quantify and describe the relationships between variables in our data.
 
 Regarding correlation, we reviewed concepts such as covariance and the Pearson correlation coefficient, as well as independent and dependent variables, and the negative and positive relationships between variables (Geeks for Geeks, 2024). Meanwhile, in our regression review, we examined linear regression, multiple linear regression, and logistic regression (B. Beers, 2024). We learned about their limitations and how they are visually represented, thanks to relevant videos and lecture casts.
@@ -30,24 +31,28 @@ Additionally, we continued our collaborative discussion, culminating in a summar
 
 Figure 2: First peer response in Unit 2.
 
+
 ![pic3](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf2b.png?raw=true)
 
 Figure 3: Second peer response in Unit 2.
+
 
 ![pic4](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf3.png?raw=true)
 
 Figure 4: Summary post in Unit 3.
 
-Lastly, we completed two exercises for our second and third seminars in Units 2 and 4, as well as an e-portfolio activity in Unit 3. The latter involved reviewing some Python files that demonstrated different types of regression, along with covariance and Pearson correlation. For the first exercise, we applied exploratory data analysis (EDA) to a dataset, identifying any missing values, estimating skewness and kurtosis, creating a correlation heat map, generating scatter plots for different parameters, and replacing categorical values with numerical values (University of Southampton, 2024; R. Awati, 2023). In the second exercise, we were provided with two datasets that we needed to join together in order to address the missing values, investigate any correlation between them through a plot, and evaluate the Pearson correlation coefficient. Additionally, we performed linear regression for values within a specific date interval as a filter. These activities helped us familiarize ourselves with coding while also applying our theoretical knowledge in practice.
 
+Lastly, we completed two exercises for our second and third seminars in Units 2 and 4, as well as an e-portfolio activity in Unit 3. The latter involved reviewing some Python files that demonstrated different types of regression, along with covariance and Pearson correlation. For the first exercise, we applied exploratory data analysis (EDA) to a dataset, identifying any missing values, estimating skewness and kurtosis, creating a correlation heat map, generating scatter plots for different parameters, and replacing categorical values with numerical values (University of Southampton, 2024; R. Awati, 2023). In the second exercise, we were provided with two datasets that we needed to join together in order to address the missing values, investigate any correlation between them through a plot, and evaluate the Pearson correlation coefficient. Additionally, we performed linear regression for values within a specific date interval as a filter. These activities helped us familiarize ourselves with coding while also applying our theoretical knowledge in practice.
 
 file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%202%20-%20Exercise.html
 
 Figure 5: Unit 2 Seminar Exercise Link.
 
+
 file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%204%20Seminar%20Exercise.html
 
 Figure 6: Unit 4 Seminar Exercise Link.
+
 
 In Units 5 and 6, we explored clustering, which is the task of grouping sets of similar objects and is part of exploratory data analysis. We familiarized ourselves with the basic concepts behind cluster analysis and examined the different methods that exist, including K-means, Hierarchical clustering, and DBSCAN (Geeks for Geeks, 2024). Additionally, we learned about methods to evaluate our clustering results and determine the optimal number of clusters to implement in our models, such as the elbow method and silhouette coefficient (Ad. B. Habib, 2021). We also completed an exercise calculating the Jaccard coefficient to understand how it works, along with a few animations illustrating clustering.
 
@@ -55,11 +60,13 @@ In Units 5 and 6, we explored clustering, which is the task of grouping sets of 
 
 Figure 7: Unit 5 Jaccard Coefficient Calculations Exercise.
 
+
 Meanwhile, in Unit 6, we participated in our fourth seminar exercise, which focused on K-means clustering. In this exercise, we had to choose one of the three available datasets to gain hands-on experience with this specific method. We opted to proceed with Task A: the Iris dataset (Kaggle, 2024).
 
 file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%206%20-%20Seminar%20Exercise.html
 
 Figure 8: Unit 6 Seminar Exercise Link.
+
 
 Lastly, also in Unit 6, we developed a team project report analyzing the Airbnb business using a given dataset from New York City (Kaggle, 2024). For this project, we applied the knowledge we had gained in previous units. However, the dataset presented challenges, as the headers of each column lacked descriptive information. There were also many inconsistencies and anomalies in the data. Despite these issues, we figured out how to address them after spending many hours exploring the dataset. Thanks to our tutor, our team had already been formed in Unit 2, giving us ample time to analyze our data and communicate our findings. The team project was an insightful experience, as we encountered various perspectives and approaches to tackling project challenges. In the end, we managed to complete it successfully and received a distinction.
 
@@ -67,9 +74,11 @@ file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Lea
 
 Figure 9: Unit 6 Team Project Link.
 
+
 ![pic6](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf6.png?raw=true)
 
 Figure 10: Unit 6 Team Project Assessment.
+
 
 In Units 7 and 8, we were introduced to Artificial Neural Networks (ANNs), a biology-inspired algorithm that can learn from the environment and adapt like animals do (IBM, 2024). We learned about how ANNs are constructed and what they consist of, including different types of layers and activation functions. Also, for what they are being used for and why. There were sufficient materials available, including Python code, which made the content clearer and more understandable. Additionally, we learned about the procedure that ANNs follow in order to be trained and learn efficiently through backpropagation, which reduces errors and updates weights.
 
@@ -81,11 +90,13 @@ Furthermore, in Unit 8, we had our fifth seminar exercise, where we had to read 
 
 Figure 11: Unit 8 Seminar Exercise.
 
+
 Lastly, we had our second collaborative discussion, which this time centered on AI writers (M. Hutson, 2021). We were tasked with exploring and documenting the risks and benefits of the futuristic automated work being done by AI that could potentially replace some current job positions.
 
 ![pic8](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf8a.png?raw=true)
 
 Figure 12: Unit 8 Initial Post in Collaborative Discussion 2.
+
 
 In Units 9 and 10, we were introduced to Convolutional Neural Networks (CNNs), an extension of artificial neural networks that form the basis of computer vision (IMB, 2024). Computer vision gives machines the ability to see and explore the world around us. We learned about their characteristics, construction, functionality, and applications.
 
@@ -97,19 +108,23 @@ Aside from that, in Unit 9, we had an activity related to an incident involving 
 
 Figure 13: Unit 9 Seminar Exercise.
 
+
 Lastly, we continued with our final collaborative discussion, culminating in a summary post in Unit 10. This followed our interactions with two of our peers by providing responses to each in Unit 9, just as we did in Unit 3.
 
 ![pic10](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf9a.png?raw=true)
 
 Figure 14: First peer response in Unit 9.
 
+
 ![pic11](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf9b.png?raw=true)
 
 Figure 15: Second peer response in Unit 9.
 
+
 ![pic12](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf10.png?raw=true)
 
 Figure 16: Summary post in Unit 10.
+
 
 In Unit 11, we learned about model selection and evaluation as they pertain to machine learning. This was the core focus of the module. We learned how to distinguish whether the model's task is prediction or classification and how effectively a model can predict a dataset based on its accuracy level. We reviewed different methods and techniques for evaluation and discussed ways to improve overall performance. Moreover, we became familiar with the challenges we face, such as bias, underfitting, and overfitting. We explored available strategies for optimization and classification metrics, including types of errors, the Receiver Operating Characteristic (ROC) curve, and the area under the curve (AUC) (Medium, 2024).
 
@@ -119,6 +134,7 @@ file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Lea
 
 Figure 17: Unit 11 Assessment Link.
 
+
 Finally, in the last and conclusive Unit 12, we read about the future of industries in combination with machine learning (A. Deiz-Olivan et al., 2019). We gained insight into new possible trends and perspectives, as well as the challenges we currently face due to this development, such as fake videos and images created by AI, and the disinformation that is rampant in our media (CDEI, 2019).
 Additionally, we had our final seminar exercise. This time, we had to choose a topic relevant to the use of machine learning in the industry as a prognostic tool.
 
@@ -126,7 +142,9 @@ Additionally, we had our final seminar exercise. This time, we had to choose a t
 
 Figure 18: Unit 12 Seminar Exercise.
 
+
 Last but not least, we were required to develop a reflective summary report for the entire module.
+
 
 
 <p><strong>Challenges and Drawbacks</strong><br></p>
@@ -137,12 +155,14 @@ Furthermore, I would like to highlight another challenge, the team project. Whil
 Lastly, as I mentioned in the past, the reflection report is not particularly helpful for our learning. It would be more beneficial to have a practical exercise or a real assignment that simulates a work environment. This approach would be advantageous for both us and businesses, as companies prefer candidates who are already experienced in solving real-world, day-to-day problems (S. Nair, 2017).
 
 
+
 <p><strong>Opportunities and Positives</strong><br></p>
 
 The opportunity to work on two specific assignments in Unit 6, the team project, and in Unit 11, the development of a neural network model to assess the CIFAR-10 dataset, was extraordinary and invaluable. Through these experiences, I researched many significant concepts that I had never encountered before in my life. As a result, I learned numerous foundational principles that I believe are essential for machine learning.
 Overall, the research I conducted, along with the structured questions posed by our tutor, helped enhance my problem-solving skills. The team project and collaborative discussions improved my teamwork abilities and fostered personal growth.
 
 Regarding the subject matter covered in this module, I am confident that it will provide a competitive advantage in my career. Moreover, by applying the knowledge I have gained, along with a bit more experience and research for personal development in this field, I will be equipped with the skills needed to make informed business decisions, foster creativity and innovation, conduct meaningful analyses, and generate insightful information. I will also be able to effectively assess and manage risks, automate tasks, and maintain quality control in everything I do. Studying machine learning is a powerful asset in today’s world (D. Flower, 2023).
+
 
 
 
