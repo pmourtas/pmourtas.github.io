@@ -16,6 +16,7 @@ Moreover, we began reading our core book, “An Introduction to Machine Learning
 Lastly, we had our first seminar with our tutor, which was an introductory session aimed at meeting our peers, getting to know each other, and summarizing what we will learn in this specific unit. 
 
 ![pic0](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf1a.png?raw=true)
+![pic1](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf1b.png?raw=true)
 
 Figure 1: Initial Post in Collaborative Discussion 1.
 
@@ -25,29 +26,48 @@ Regarding correlation, we reviewed concepts such as covariance and the Pearson c
 
 Additionally, we continued our collaborative discussion, culminating in a summarization post in Unit 3 after interacting with two of our peers by providing a response to each in Unit 2.
 
+![pic2](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf2a.png?raw=true)
+
 Figure 2: First peer response in Unit 2.
 
+![pic3](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf2b.png?raw=true)
+
 Figure 3: Second peer response in Unit 2.
+
+![pic4](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf3.png?raw=true)
 
 Figure 4: Summary post in Unit 3.
 
 Lastly, we completed two exercises for our second and third seminars in Units 2 and 4, as well as an e-portfolio activity in Unit 3. The latter involved reviewing some Python files that demonstrated different types of regression, along with covariance and Pearson correlation. For the first exercise, we applied exploratory data analysis (EDA) to a dataset, identifying any missing values, estimating skewness and kurtosis, creating a correlation heat map, generating scatter plots for different parameters, and replacing categorical values with numerical values (University of Southampton, 2024; R. Awati, 2023). In the second exercise, we were provided with two datasets that we needed to join together in order to address the missing values, investigate any correlation between them through a plot, and evaluate the Pearson correlation coefficient. Additionally, we performed linear regression for values within a specific date interval as a filter. These activities helped us familiarize ourselves with coding while also applying our theoretical knowledge in practice.
 
-Figure 5: Unit 2 Seminar Exercise.
 
-Figure 6: Unit 4 Seminar Exercise.
+file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%202%20-%20Exercise.html
+
+Figure 5: Unit 2 Seminar Exercise Link.
+
+file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%204%20Seminar%20Exercise.html
+
+Figure 6: Unit 4 Seminar Exercise Link.
 
 In Units 5 and 6, we explored clustering, which is the task of grouping sets of similar objects and is part of exploratory data analysis. We familiarized ourselves with the basic concepts behind cluster analysis and examined the different methods that exist, including K-means, Hierarchical clustering, and DBSCAN (Geeks for Geeks, 2024). Additionally, we learned about methods to evaluate our clustering results and determine the optimal number of clusters to implement in our models, such as the elbow method and silhouette coefficient (Ad. B. Habib, 2021). We also completed an exercise calculating the Jaccard coefficient to understand how it works, along with a few animations illustrating clustering.
+
+![pic5](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf5.png?raw=true)
 
 Figure 7: Unit 5 Jaccard Coefficient Calculations Exercise.
 
 Meanwhile, in Unit 6, we participated in our fourth seminar exercise, which focused on K-means clustering. In this exercise, we had to choose one of the three available datasets to gain hands-on experience with this specific method. We opted to proceed with Task A: the Iris dataset (Kaggle, 2024).
 
-Figure 8: Unit 6 Seminar Exercise.
+file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%206%20-%20Seminar%20Exercise.html
+
+Figure 8: Unit 6 Seminar Exercise Link.
 
 Lastly, also in Unit 6, we developed a team project report analyzing the Airbnb business using a given dataset from New York City (Kaggle, 2024). For this project, we applied the knowledge we had gained in previous units. However, the dataset presented challenges, as the headers of each column lacked descriptive information. There were also many inconsistencies and anomalies in the data. Despite these issues, we figured out how to address them after spending many hours exploring the dataset. Thanks to our tutor, our team had already been formed in Unit 2, giving us ample time to analyze our data and communicate our findings. The team project was an insightful experience, as we encountered various perspectives and approaches to tackling project challenges. In the end, we managed to complete it successfully and received a distinction.
 
-Figure 9: Unit 6 Team Project.
+file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%206%20-%20MachineLearningModuleDevelopmentTeamProjectAn.html
+
+Figure 9: Unit 6 Team Project Link.
+
+![pic6](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf6.png?raw=true)
 
 Figure 10: Unit 6 Team Project Assessment.
 
@@ -57,9 +77,13 @@ The challenge we faced was that the coding material was not explained in detail,
 
 Furthermore, in Unit 8, we had our fifth seminar exercise, where we had to read two articles and expand upon them with our views and concerns. The first article discussed the business areas where neural networks can be applied, while the second focused on the use of Artificial Intelligence (AI) in personal insurance (M. Mayo, 2017; GOV UK, 2019).
 
+![pic7](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf8.png?raw=true)
+
 Figure 11: Unit 8 Seminar Exercise.
 
 Lastly, we had our second collaborative discussion, which this time centered on AI writers (M. Hutson, 2021). We were tasked with exploring and documenting the risks and benefits of the futuristic automated work being done by AI that could potentially replace some current job positions.
+
+![pic8](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf8a.png?raw=true)
 
 Figure 12: Unit 8 Initial Post in Collaborative Discussion 2.
 
@@ -69,13 +93,21 @@ Additionally, we participated in numerous tutorials and video lessons focusing o
 
 Aside from that, in Unit 9, we had an activity related to an incident involving the use of AI—specifically, an automated facial recognition system for identifying criminals and terrorists (M. Wall, 2019). Although the system was not sufficiently developed, the police and security forces were testing it nonetheless. Our task was to write down our thoughts on the ethical and social implications of this CNN technology.
 
+![pic9](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf9.png?raw=true)
+
 Figure 13: Unit 9 Seminar Exercise.
 
 Lastly, we continued with our final collaborative discussion, culminating in a summary post in Unit 10. This followed our interactions with two of our peers by providing responses to each in Unit 9, just as we did in Unit 3.
 
+![pic10](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf9a.png?raw=true)
+
 Figure 14: First peer response in Unit 9.
 
+![pic11](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf9b.png?raw=true)
+
 Figure 15: Second peer response in Unit 9.
+
+![pic12](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf10.png?raw=true)
 
 Figure 16: Summary post in Unit 10.
 
@@ -83,10 +115,14 @@ In Unit 11, we learned about model selection and evaluation as they pertain to m
 
 Lastly, we had another significant assignment. However, unlike the team project in Unit 6, it was an individual presentation. This time, we were required to design a neural network to assess the efficacy of a model for object recognition using the CIFAR-10 dataset (Al. Krizhevsky, 2009). To do this, we needed to partition a validation set from the provided training dataset and address specific aspects, such as the methods we used to construct our neural network and the detailed reasons behind our choices.
 
-Figure 17: Unit 11 Assessment.
+file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%2011%20Assignment.htm
+
+Figure 17: Unit 11 Assessment Link.
 
 Finally, in the last and conclusive Unit 12, we read about the future of industries in combination with machine learning (A. Deiz-Olivan et al., 2019). We gained insight into new possible trends and perspectives, as well as the challenges we currently face due to this development, such as fake videos and images created by AI, and the disinformation that is rampant in our media (CDEI, 2019).
 Additionally, we had our final seminar exercise. This time, we had to choose a topic relevant to the use of machine learning in the industry as a prognostic tool.
+
+![pic13](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf12.png?raw=true)
 
 Figure 18: Unit 12 Seminar Exercise.
 
