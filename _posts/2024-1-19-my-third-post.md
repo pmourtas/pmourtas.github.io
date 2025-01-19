@@ -63,7 +63,7 @@ Meanwhile, in Unit 6, we participated in our fourth seminar exercise, which focu
 
 Lastly, also in Unit 6, we developed a team project report analyzing the Airbnb business using a given dataset from New York City (Kaggle, 2024). For this project, we applied the knowledge we had gained in previous units. However, the dataset presented challenges, as the headers of each column lacked descriptive information. There were also many inconsistencies and anomalies in the data. Despite these issues, we figured out how to address them after spending many hours exploring the dataset. Thanks to our tutor, our team had already been formed in Unit 2, giving us ample time to analyze our data and communicate our findings. The team project was an insightful experience, as we encountered various perspectives and approaches to tackling project challenges. In the end, we managed to complete it successfully and received a distinction.
 
-<a href="https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/Unit 6 - Seminar Exercise.pdf">Figure 9: Unit 6 Team Project Link.</a>
+<a href="https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/Unit 6 - Team Project.pdf">Figure 9: Unit 6 Team Project Link.</a>
 
 
 ![pic6](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf6.png?raw=true)
