@@ -43,7 +43,21 @@ Figure 4: Summary post in Unit 3.
 
 
 Lastly, we completed two exercises for our second and third seminars in Units 2 and 4, as well as an e-portfolio activity in Unit 3. The latter involved reviewing some Python files that demonstrated different types of regression, along with covariance and Pearson correlation. For the first exercise, we applied exploratory data analysis (EDA) to a dataset, identifying any missing values, estimating skewness and kurtosis, creating a correlation heat map, generating scatter plots for different parameters, and replacing categorical values with numerical values (University of Southampton, 2024; R. Awati, 2023). In the second exercise, we were provided with two datasets that we needed to join together in order to address the missing values, investigate any correlation between them through a plot, and evaluate the Pearson correlation coefficient. Additionally, we performed linear regression for values within a specific date interval as a filter. These activities helped us familiarize ourselves with coding while also applying our theoretical knowledge in practice.
-<a href="https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/Unit%204%20Seminar%20Exercise.html">Figure 6: Unit 4 Seminar Exercise Link</a>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <p>
+        <a href="https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/Unit%204%20Seminar%20Exercise.html">Figure 6: Unit 4 Seminar Exercise Link</a>
+    </p>
+</body>
+</html>
+
+
 file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%202%20-%20Exercise.html
 
 Figure 5: Unit 2 Seminar Exercise Link.
