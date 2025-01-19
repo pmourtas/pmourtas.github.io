@@ -44,19 +44,9 @@ Figure 4: Summary post in Unit 3.
 
 Lastly, we completed two exercises for our second and third seminars in Units 2 and 4, as well as an e-portfolio activity in Unit 3. The latter involved reviewing some Python files that demonstrated different types of regression, along with covariance and Pearson correlation. For the first exercise, we applied exploratory data analysis (EDA) to a dataset, identifying any missing values, estimating skewness and kurtosis, creating a correlation heat map, generating scatter plots for different parameters, and replacing categorical values with numerical values (University of Southampton, 2024; R. Awati, 2023). In the second exercise, we were provided with two datasets that we needed to join together in order to address the missing values, investigate any correlation between them through a plot, and evaluate the Pearson correlation coefficient. Additionally, we performed linear regression for values within a specific date interval as a filter. These activities helped us familiarize ourselves with coding while also applying our theoretical knowledge in practice.
 
+<a href="https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/Unit 2 - Exercise.pdf">Figure 5: Unit 2 Seminar Exercise Link.</a>
 
-<a href="https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/Unit 2 - Exercise.pdf">Figure 6: Unit 4 Seminar Exercise Link</a>
-
-
-
-file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%202%20-%20Exercise.html
-
-Figure 5: Unit 2 Seminar Exercise Link.
-
-
-file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%204%20Seminar%20Exercise.html
-
-Figure 6: Unit 4 Seminar Exercise Link.
+<a href="https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/Unit 4 - Seminar Exercise.pdf">Figure 6: Unit 4 Seminar Exercise Link.</a>
 
 
 In Units 5 and 6, we explored clustering, which is the task of grouping sets of similar objects and is part of exploratory data analysis. We familiarized ourselves with the basic concepts behind cluster analysis and examined the different methods that exist, including K-means, Hierarchical clustering, and DBSCAN (Geeks for Geeks, 2024). Additionally, we learned about methods to evaluate our clustering results and determine the optimal number of clusters to implement in our models, such as the elbow method and silhouette coefficient (Ad. B. Habib, 2021). We also completed an exercise calculating the Jaccard coefficient to understand how it works, along with a few animations illustrating clustering.
@@ -68,16 +58,12 @@ Figure 7: Unit 5 Jaccard Coefficient Calculations Exercise.
 
 Meanwhile, in Unit 6, we participated in our fourth seminar exercise, which focused on K-means clustering. In this exercise, we had to choose one of the three available datasets to gain hands-on experience with this specific method. We opted to proceed with Task A: the Iris dataset (Kaggle, 2024).
 
-file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%206%20-%20Seminar%20Exercise.html
-
-Figure 8: Unit 6 Seminar Exercise Link.
+<a href="https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/Unit 6 - Seminar Exercise.pdf">Figure 8: Unit 6 Seminar Exercise Link.</a>
 
 
 Lastly, also in Unit 6, we developed a team project report analyzing the Airbnb business using a given dataset from New York City (Kaggle, 2024). For this project, we applied the knowledge we had gained in previous units. However, the dataset presented challenges, as the headers of each column lacked descriptive information. There were also many inconsistencies and anomalies in the data. Despite these issues, we figured out how to address them after spending many hours exploring the dataset. Thanks to our tutor, our team had already been formed in Unit 2, giving us ample time to analyze our data and communicate our findings. The team project was an insightful experience, as we encountered various perspectives and approaches to tackling project challenges. In the end, we managed to complete it successfully and received a distinction.
 
-file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%206%20-%20MachineLearningModuleDevelopmentTeamProjectAn.html
-
-Figure 9: Unit 6 Team Project Link.
+<a href="https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/Unit 6 - Seminar Exercise.pdf">Figure 9: Unit 6 Team Project Link.</a>
 
 
 ![pic6](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/pf6.png?raw=true)
@@ -135,9 +121,7 @@ In Unit 11, we learned about model selection and evaluation as they pertain to m
 
 Lastly, we had another significant assignment. However, unlike the team project in Unit 6, it was an individual presentation. This time, we were required to design a neural network to assess the efficacy of a model for object recognition using the CIFAR-10 dataset (Al. Krizhevsky, 2009). To do this, we needed to partition a validation set from the provided training dataset and address specific aspects, such as the methods we used to construct our neural network and the detailed reasons behind our choices.
 
-file:///C:/Users/Pan%20Mour/Downloads/MSc%20Data%20Science/E%20-%20Machine%20Learning/Machine%20Learning%20Module%20-%20Portfolio/Unit%2011%20Assignment.htm
-
-Figure 17: Unit 11 Assessment Link.
+<a href="https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/Unit 11 - Cifar-10.pdf">Figure 17: Unit 11 Assessment Link.</a>
 
 
 Finally, in the last and conclusive Unit 12, we read about the future of industries in combination with machine learning (A. Deiz-Olivan et al., 2019). We gained insight into new possible trends and perspectives, as well as the challenges we currently face due to this development, such as fake videos and images created by AI, and the disinformation that is rampant in our media (CDEI, 2019).
