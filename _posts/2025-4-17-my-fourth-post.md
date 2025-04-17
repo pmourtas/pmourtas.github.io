@@ -58,7 +58,7 @@ Additionally, the Collaborative Learning Discussion concluded with a summary pos
 Figure: Summary Post
 
 Lastly, we participated in a Research Proposal Review Activity, outlining our selected methods and discussing their suitability for our individual research projects. 
-![pic10](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/00010)
+![pic10](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/00010.png?raw=true)
 ![pic11](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/00011.png?raw=true)
 ![pic12](https://github.com/pmourtas/pmourtas.github.io/blob/main/assets/images/banners/00012.png?raw=true)
 Figure: Research Proposal Review
