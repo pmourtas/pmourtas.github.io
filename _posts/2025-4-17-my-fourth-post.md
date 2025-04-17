@@ -185,22 +185,9 @@ The final unit focused on project management, specifically for computing-related
 We also explored how to manage change, whether it arises from stakeholder demands or shifting project environments. Tools supporting remote collaboration and digital project tracking were discussed as essential components of modern project delivery (McManus, 2024; Mckinsey, 2023).
 
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+
+
+
 
 
 
